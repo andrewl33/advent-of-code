@@ -2,6 +2,23 @@
   "python.linting.enabled": true,
   "files.associations": {
     "iostream": "cpp",
-    "ostream": "cpp"
-  }
+    "ostream": "cpp",
+    "iosfwd": "cpp"
+  },
+  "cSpell.words": [
+    "addi",
+    "banr",
+    "bori",
+    "borr",
+    "eqir",
+    "eqri",
+    "eqrr",
+    "gtir",
+    "gtri",
+    "gtrr",
+    "muli",
+    "mulr",
+    "seti",
+    "setr"
+  ]
 }
