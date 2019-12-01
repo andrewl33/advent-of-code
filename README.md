@@ -1,4 +1,4 @@
-# Advent of Code 2018, My Solutions
+# Advent of Code, My Solutions
 
 https://adventofcode.com/
 
