@@ -20,5 +20,6 @@
     "mulr",
     "seti",
     "setr"
-  ]
+  ],
+  "python.pythonPath": "C:\\Users\\Andre\\Anaconda3\\python.exe"
 }
