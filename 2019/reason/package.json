@@ -14,5 +14,7 @@
   "devDependencies": {
     "bs-platform": "^5.2.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "bs-readline": "^1.0.4"
+  }
 }
