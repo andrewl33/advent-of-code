@@ -148,7 +148,7 @@ function computer(arr, phase, input) {
               throw [
                     Caml_builtin_exceptions.match_failure,
                     /* tuple */[
-                      "day07.re",
+                      "day07part1.re",
                       85,
                       10
                     ]
@@ -170,7 +170,7 @@ function computer(arr, phase, input) {
               throw [
                     Caml_builtin_exceptions.match_failure,
                     /* tuple */[
-                      "day07.re",
+                      "day07part1.re",
                       89,
                       10
                     ]
@@ -214,7 +214,7 @@ function computer(arr, phase, input) {
               throw [
                     Caml_builtin_exceptions.match_failure,
                     /* tuple */[
-                      "day07.re",
+                      "day07part1.re",
                       98,
                       10
                     ]
@@ -243,7 +243,7 @@ function computer(arr, phase, input) {
               throw [
                     Caml_builtin_exceptions.match_failure,
                     /* tuple */[
-                      "day07.re",
+                      "day07part1.re",
                       101,
                       10
                     ]
@@ -265,7 +265,7 @@ function computer(arr, phase, input) {
               throw [
                     Caml_builtin_exceptions.match_failure,
                     /* tuple */[
-                      "day07.re",
+                      "day07part1.re",
                       104,
                       10
                     ]
@@ -287,7 +287,7 @@ function computer(arr, phase, input) {
               throw [
                     Caml_builtin_exceptions.match_failure,
                     /* tuple */[
-                      "day07.re",
+                      "day07part1.re",
                       108,
                       10
                     ]
